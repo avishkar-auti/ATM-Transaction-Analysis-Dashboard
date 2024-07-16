@@ -64,4 +64,4 @@ To view and interact with the dashboard, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   [git clone https://github.com/avishkarauti/atm-transaction-analysis-dashboard.git
+   git clone https://github.com/avishkarauti/atm-transaction-analysis-dashboard.git
