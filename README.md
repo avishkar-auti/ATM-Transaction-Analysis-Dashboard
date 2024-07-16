@@ -5,7 +5,7 @@
 This project is a comprehensive ATM Transaction Analysis Dashboard created using Power BI. It provides detailed insights into the performance, cost, and revenue metrics associated with ATM operations across various regions.
 ## PDF Report
 
-For a detailed report of the ATM Transaction Analysis, please refer to the [ATM Analysis PDF](./https://github.com/avishkar-auti/ATM-Transaction-Analysis-Dashboard/blob/master/ATM%20analysis.pdf).
+For a detailed report of the ATM Transaction Analysis, please refer to the [ATM Analysis PDF](./ATManalysis.pdf).
 
 ## Features
 
